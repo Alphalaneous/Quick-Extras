@@ -1,12 +1,12 @@
 {
-	"geode": "4.0.0-alpha.1",
+	"geode": "4.0.0-beta.1",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074"
 	},
 	"id": "alphalaneous.quick_extras",
 	"name": "Quick Extras",
-	"version": "v1.0.1-alpha.1",
+	"version": "v1.0.1",
 	"developer": "Alphalaneous",
 	"description": "Adds a button to quickly access object extras",
 	"resources": {
@@ -22,7 +22,7 @@
         }
     ],
 	"links": {
-        "homepage": "https://twitter.com/alphalaneous",
+        "homepage": "https://linktr.ee/Alphalaneous",
         "source": "https://github.com/Alphalaneous/Quick-Extras",
         "community": "https://discord.gg/Txn2CA5dHF"
     }
